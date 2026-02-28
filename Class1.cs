@@ -27,7 +27,7 @@ class Calculadora
 
             switch (opcion)
             {
-                case "1":
+                case "1"://Este codigo fue ingresado por David Lema
                     resultado = num1 + num2;
                     Console.WriteLine($"Resultado de la suma: {resultado}");
                     break;
