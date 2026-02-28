@@ -28,6 +28,7 @@ class Calculadora
             switch (opcion)
             {
                 case "1"://Este codigo fue ingresado por David Lema
+                    //Este comentario es para probar la rama
                     resultado = num1 + num2;
                     Console.WriteLine($"Resultado de la suma: {resultado}");
                     break;
@@ -37,8 +38,11 @@ class Calculadora
                     resultado = num1 - num2;
                     Console.WriteLine($"Resultado de la resta: {resultado}");
                     break;
+             
                 case "3":
                     
+               
+                
                 case "4":
                     if (num2 != 0)
                     {
