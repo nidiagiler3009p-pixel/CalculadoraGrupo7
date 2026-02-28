@@ -34,7 +34,9 @@ class Calculadora
 
 
                 case "2":
-                   
+                    resultado = num1 - num2;
+                    Console.WriteLine($"Resultado de la resta: {resultado}");
+                    break;
                 case "3":
                     
                 case "4":
